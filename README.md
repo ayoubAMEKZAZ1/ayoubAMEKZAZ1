@@ -2,9 +2,9 @@
 
 **Data Scientist · Financial Analyst · ML Researcher**
 
-I build machine-learning and analytics systems for banking risk: credit-risk early warning, IFRS 9 provisioning, cross-bank fraud detection and risk-reporting automation. Former intern in the Counterparty Risk Surveillance department of a Moroccan bank; B.Sc. (Hons) Data Science, Cyprus International University.
+I build machine-learning and analytics systems for banking and finance/FinTech purposes: credit-risk early warning, IFRS 9 provisioning, cross-bank fraud detection and risk-reporting automation. Former intern in the Counterparty Risk Surveillance department of CIH bank (Casablanca, Morocco); B.Sc. (Hons) Data Science, Cyprus International University.
 
-Open to **full-time remote roles** in data science, credit risk and financial analysis.
+Open to **full-time roles** in data science, credit risk and financial analysis.
 
 [ayoub1am@icloud.com](mailto:ayoub1am@icloud.com) · [LinkedIn](https://www.linkedin.com/in/ayoub-amekzaz-0b727821b/) · [Substack](https://substack.com/@ayoublab)
 
